@@ -4,6 +4,8 @@ public class HelloGit {
 	public static void main(String[] args) {
   System.out.println("hello git");
   System.out.println("my second statement");
+  System.out.println("my third change");
+  
 	}
 
 }
